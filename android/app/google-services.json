@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "422173875200",
+    "project_id": "archery-companion-16184",
+    "storage_bucket": "archery-companion-16184.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422173875200:android:f9b681d055540b8b8c4ce5",
+        "android_client_info": {
+          "package_name": "com.nelfdesign.archery_companion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422173875200-e7ckmqa426psongsae7elms4h00tdi23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0eEAq-9fuf_hbls_97yZRew5mGOV4YlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422173875200-e7ckmqa426psongsae7elms4h00tdi23.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "422173875200-7opdo2stp9h92nmokvk9i20me4m3dtdb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nelfdesign.archeryCompanion"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>422173875200-7opdo2stp9h92nmokvk9i20me4m3dtdb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.422173875200-7opdo2stp9h92nmokvk9i20me4m3dtdb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDUdWPtOLilYi3MRwHtwkmL6fnhrIRsLO8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>422173875200</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nelfdesign.archeryCompanion</string>
+	<key>PROJECT_ID</key>
+	<string>archery-companion-16184</string>
+	<key>STORAGE_BUCKET</key>
+	<string>archery-companion-16184.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:422173875200:ios:1ff9421bc01dc2648c4ce5</string>
+</dict>
+</plist>
