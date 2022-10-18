@@ -1,4 +1,4 @@
-package com.example.archery_companion
+package com.nelfdesign.archery_companion
 
 import io.flutter.embedding.android.FlutterActivity
 
